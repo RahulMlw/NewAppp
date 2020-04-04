@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        // oiuytrsfdghjl;lkgfhdsgyu
     }
     func showAlert(Title : String , message : String , actions : [String],complition : @escaping (String?)->()){
         let alert = UIAlertController(title: Title, message: message, preferredStyle: UIAlertController.Style.alert)
